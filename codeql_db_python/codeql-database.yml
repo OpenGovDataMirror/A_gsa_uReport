@@ -1,0 +1,35 @@
+---
+sourceLocationPrefix: "/home/user/asf/cloner/gh/clones/A_gsa_uReport"
+baselineLinesOfCode: 0
+unicodeNewlines: false
+columnKind: "utf32"
+primaryLanguage: "python"
+inProgress:
+  primaryLanguage: "python"
+  installedExtractors:
+    cpp:
+    - "file:///home/user/codeql/codeql/cpp/"
+    javascript:
+    - "file:///home/user/codeql/codeql/javascript/"
+    python:
+    - "file:///home/user/codeql/codeql/python/"
+    html:
+    - "file:///home/user/codeql/codeql/html/"
+    properties:
+    - "file:///home/user/codeql/codeql/properties/"
+    go:
+    - "file:///home/user/codeql/codeql/go/"
+    ruby:
+    - "file:///home/user/codeql/codeql/ruby/"
+    csharp:
+    - "file:///home/user/codeql/codeql/csharp/"
+    xml:
+    - "file:///home/user/codeql/codeql/xml/"
+    java:
+    - "file:///home/user/codeql/codeql/java/"
+    csv:
+    - "file:///home/user/codeql/codeql/csv/"
+creationMetadata:
+  sha: "b535d2efa4fd609acf0ce554167de163334de50e"
+  cliVersion: "2.11.1"
+  creationTime: "2022-12-13T22:57:53.167270466Z"

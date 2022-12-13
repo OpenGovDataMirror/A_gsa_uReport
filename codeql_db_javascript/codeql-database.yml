@@ -1,0 +1,10 @@
+---
+sourceLocationPrefix: "/home/user/asf/cloner/gh/clones/A_gsa_uReport"
+baselineLinesOfCode: 178185
+unicodeNewlines: true
+columnKind: "utf16"
+primaryLanguage: "javascript"
+creationMetadata:
+  sha: "b535d2efa4fd609acf0ce554167de163334de50e"
+  cliVersion: "2.11.1"
+  creationTime: "2022-12-13T22:57:56.730433944Z"

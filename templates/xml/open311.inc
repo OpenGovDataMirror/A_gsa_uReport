@@ -1,0 +1,10 @@
+<?php print ("<?xml version=\"1.0\" encoding=\"utf-8\"?>\n"); ?>
+<?php
+/**
+ * @copyright 2011 City of Bloomington, Indiana
+ * @license http://www.gnu.org/licenses/agpl.txt GNU/AGPL, see LICENSE.txt
+ * @author Cliff Ingham <inghamn@bloomington.in.gov>
+ */
+header('Content-type: text/xml; charset=utf-8');
+include FRAMEWORK.'/errorMessages.php';
+echo $this->includeBlocks();
